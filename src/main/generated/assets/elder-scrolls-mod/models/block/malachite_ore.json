@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "dovahkiin-forged:block/malachite_ore"
+  }
+}
