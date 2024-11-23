@@ -1,4 +1,9 @@
 # [Fabric] Dovahkiin: Forged
+![Release](https://img.shields.io/github/v/release/DylanBulmer/dovahkiin-forged-fabric?display_name=release&style=flat-square)
+![Build Status](https://img.shields.io/github/actions/workflow/status/DylanBulmer/dovahkiin-forged-fabric/build.yml?style=flat-square)</br>
+[![Buy me a coffee](https://img.shields.io/badge/-Buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee&style=flat-square)](https://buymeacoffee.com/dylanbulmer)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/DylanBulmer?style=flat-square&label=GitHub%20Sponsors&color=%23ff4444)](https://github.com/sponsors/DylanBulmer)
+
 **Java:** `21` **Fabric:** `0.106.1+1.21.3` **MC:** `1.21.3`
 
 ---
