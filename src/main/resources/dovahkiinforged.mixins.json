@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.dovahkiinforged.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"DovahkiinForgedMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

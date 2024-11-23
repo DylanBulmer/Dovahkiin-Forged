@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "dovahkiin-forged:item/glass_sword"
-  }
-}

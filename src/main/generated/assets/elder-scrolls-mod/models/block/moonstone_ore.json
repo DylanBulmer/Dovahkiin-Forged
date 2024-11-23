@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "dovahkiin-forged:block/moonstone_ore"
-  }
-}

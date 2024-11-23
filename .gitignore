@@ -31,7 +31,11 @@ bin/
 # fabric
 
 run/
-src/main/generated/.cache/
+src/main/generated/
+logs/
+
+# local dev
+local.properties
 
 # java
 

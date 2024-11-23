@@ -1,0 +1,27 @@
+ext {
+    versions = [
+            // mod deps
+            minecraft    : "1.21.3",
+            yarn         : "1.21.3+build.2",
+            fabric       : "0.106.1+1.21.3",
+            fabric_loader: "0.16.8",
+            // mod commons dep
+            commons      : "1.0.4-SNAPSHOT",
+            // utility deps
+            lombok       : "1.18.36",
+    ]
+
+    libs = [
+            // mod deps
+            minecraft: "com.mojang:minecraft:${versions.minecraft}",
+            fabric   : [
+                    "net.fabricmc:fabric-loader:${versions.fabric_loader}",
+                    "net.fabricmc.fabric-api:fabric-api:${versions.fabric}",
+            ],
+            yarn     : "net.fabricmc:yarn:${versions.yarn}:v2",
+            // mod commons dep
+            commons  : "net.dovahkiinforged:dovahkiin-forged-commons:${versions.commons}",
+            // utility deps
+            lombok   : "org.projectlombok:lombok:${versions.lombok}",
+    ]
+}

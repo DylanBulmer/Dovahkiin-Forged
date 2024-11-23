@@ -1,9 +1,9 @@
-# Dovahkinn: Forged
-**Java:** 21 **Fabric:** 0.16.8, **MC:** 1.21.3
+# [Fabric] Dovahkiin: Forged
+**Java:** `21` **Fabric:** `0.106.1+1.21.3` **MC:** `1.21.3`
 
 ---
 
-**Dovahkinn: Forged** is an attempt to turn the imagination of playing an Elder Scrolls-like experience in Minecraft to
+**Dovahkiin: Forged** is an attempt to turn the imagination of playing an Elder Scrolls-like experience in Minecraft to
 reality.
 
 > [!IMPORTANT]

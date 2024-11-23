@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "dovahkiin-forged",
+  "id": "dovahkiinforged",
   "version": "${version}",
   "name": "Dovahkiin: Forged",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "Dovahkiin: Forged is an attempt to turn the imagination of playing an Elder Scrolls-like experience in Minecraft to reality.",
   "authors": [
     "DylanBulmer"
   ],
@@ -11,27 +11,30 @@
     "homepage": "https://dylanbulmer.com/",
     "sources": "https://github.com/DylanBulmer/dovahkiin-forged-fabric"
   },
-  "license": "CC0-1.0",
-  "icon": "assets/dovahkiin-forged/icon.png",
+  "license": "MIT",
+  "icon": "assets/dovahkiinforged/icon.png",
   "environment": "*",
   "entrypoints": {
+    "fabric-datagen": [
+      "net.dovahkiinforged.generator.DataGenerator"
+    ],
     "main": [
-      "dev.bulmer.DovahkiinForged"
+      "net.dovahkiinforged.DovahkiinForged"
     ],
     "client": [
-      "dev.bulmer.DovahkiinForgedClient"
+      "net.dovahkiinforged.DovahkiinForgedClient"
     ]
   },
   "mixins": [
-    "dovahkiin-forged.mixins.json",
+    "dovahkiinforged.mixins.json",
     {
-      "config": "dovahkiin-forged.client.mixins.json",
+      "config": "dovahkiinforged.client.mixins.json",
       "environment": "client"
     }
   ],
   "depends": {
     "fabricloader": ">=0.16.7",
-    "minecraft": "~1.21.3",
+    "minecraft": "^1.21.3",
     "java": ">=21",
     "fabric-api": "*"
   },
