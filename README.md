@@ -14,7 +14,7 @@ to reality.
 > project. All we ask is that you are respectful of our time! :smile:
 >
 > Thank you, </br>
-> The Docahkiin: Forged Team :heart:
+> The Dovahkiin: Forged Team :heart:
 
 
 ## Previous work
@@ -22,7 +22,7 @@ to reality.
 | Name                    | Repo                                                       | Mod                                                                           |
 |:------------------------|:-----------------------------------------------------------|:------------------------------------------------------------------------------|
 | Elder Scrolls Mod       | [GitHub](https://github.com/DylanBulmer/Elder-Scrolls-Mod) | [Curse Forge](https://www.curseforge.com/minecraft/mc-mods/elder-scrolls-mod) |
-| Tales of Skyrim: Reborn | [GitHub](https://github.com/f1lasek/Tales-of-Skyrim) | N/A                                                                           |
+| Tales of Skyrim: Reborn | [GitHub](https://github.com/f1lasek/Tales-of-Skyrim)       | N/A                                                                           |
 
 ---
 
